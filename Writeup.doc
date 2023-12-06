@@ -1,9 +1,25 @@
 1. How do you think your project went?  Did you implement everything you planned to? If not, how did you adjust?
+We think that the project went really well. We worked very efficient together and reached the goal that we set out in the 
+beginning. We implement plotting the income, expenses, and savings goal with matplotlib like intended. We also write loop to 
+check if the user meet the savings goal that they set up already so we think that things went really well. We also use multiple 
+text files like intended and append the data of each line in the text file into lists of income, expenses, and savings goal in 
+order to use them for plotting and checking if the user meet their goals.
 2. Contribution Statement: How did each partner contribute to the final product?
 Both members in our team put in the same effort in terms of time commitment and contribution to the project. We set out time to 
-work together to break the problem down into subproblems and work through the code together as well. 
+work together to break the problem down into subproblems and work through the code together as well. We debugged and fixed the 
+code together. 
 3. What was one part that was surprisingly difficult, and why? How did you overcome this?
+The thing that was surprisingly difficult is working with the text files. We had to loop through every line and append 
+the information into different lists. We are also not as comfortable with the opening, and reading text files as well as where to
+place these commands in our program. Finally, we decided to open these text files in the function main() that we used to call all 
+the function in our program. It took a while of testing different options by placing these lines in different places within the 
+program but eventually we figured it out.
 4. What was one part that was surprisingly easy, and why?
+The part that was surprisingly easy is plotting the data. Since we already know the syntax of how to plot a graph using matplotlib 
+and have used it in past assignments, we felt pretty comfortable going into this project and write a function to graph the data 
+that we have.
 5. What are you most proud of in your final project?
+The thing that we are most proud of our final project 
 6. What is one thing that you learned while doing this project?
+One thing that we learned while doing this project is 
 7. Optional: What is one feature that you would like to add if given more time?
